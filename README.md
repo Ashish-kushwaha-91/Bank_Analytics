@@ -76,7 +76,6 @@ This project was completed using the following tools:
 - **Excel**: Used for data preprocessing, cleaning, and initial analysis.
 - **MySQL**: Database used to store and query the dataset for deeper analysis.
 - **Power BI**: For creating insightful visualizations and dashboards to better interpret the data.
-- **Tableau**: Used to generate advanced data visualizations to highlight trends and relationships in the data.
 - **Python**: Leveraged for advanced data analysis using libraries like Pandas, NumPy, Matplotlib, and Seaborn.
 
 ## **Visualizations and Insights**
