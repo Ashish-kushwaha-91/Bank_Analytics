@@ -76,7 +76,6 @@ This project was completed using the following tools:
 - **Excel**: Used for data preprocessing, cleaning, and initial analysis.
 - **MySQL**: Database used to store and query the dataset for deeper analysis.
 - **Power BI**: For creating insightful visualizations and dashboards to better interpret the data.
-- **Python**: Leveraged for advanced data analysis using libraries like Pandas, NumPy, Matplotlib, and Seaborn.
 
 ## **Visualizations and Insights**
 Visualizations were created to support the KPIs and derive actionable insights, helping decision-makers understand the loan distribution, repayment trends, customer behaviors, and risks associated with different loan statuses and categories.
